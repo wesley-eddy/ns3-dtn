@@ -38,24 +38,17 @@ substantially altered.
 
 ## Contributors
 
-Project direction:
-
-* Jonathan Verville
-
 Core team:
 
 * Wesley Eddy
 * Shawn McGraw
 * Tim Walker
 
-Several NASA GSFC SIP interns made major contributions during their time supporting the work:
+Several interns made major contributions during their time supporting the work:
 
 * Reema Amhaz
 * Pierce Forte
 * Carter Edmond
-
-NASA Pathways Intern:
-
 * Bruce Barbour
 
 
